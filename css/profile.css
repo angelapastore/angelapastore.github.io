@@ -1,0 +1,78 @@
+.angela {
+	width: 200px;
+	height: 250px;
+}
+
+.card{
+	margin-top: 30px;
+}
+
+body {
+  background: none;
+  color: #69707a;
+  font-family: "Open Sans", Arial, sans-serif;
+}
+
+strong {
+  color: #222324;
+}
+
+.navbar {
+  background: #87ceeb;
+}
+
+.btn {
+  font-weight: 300;
+}
+
+.btn-primary {
+  background: #87ceeb;
+  border-color: #87ceeb;
+}
+
+.btn-primary:hover,
+.btn-primary:active,
+.btn-primary:focus,
+.btn-primary:active:focus {
+  background: #87ceeb;
+  border-color: #87ceeb;
+}
+
+.card {
+  border-color: #ccc;
+}
+
+.card-title {
+  color: #87ceeb;
+  font-weight: 300;
+}
+
+.card-block small {
+  float: right;
+}
+
+.description { background-image: url("/pattern.png");
+  background-repeat: repeat-x;}
+ 
+
+
+.background-box {
+	background-image: url(https://trashpresso.com/wp-content/uploads/2018/03/Water-Background-Wallpaper-HD-14616.jpg);
+  	background-repeat: no-repeat;
+  	color: black;
+  	background-size: cover;
+}
+
+.fullscreen {
+	height: 100%;
+}
+
+.content {
+	margin-top: 200px
+}
+
+a:not([href]):not([tabindex]){
+	color: white;
+}
+
+
